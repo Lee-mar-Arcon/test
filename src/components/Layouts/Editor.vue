@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-
+let asd = null
 </script>
 
 <style lang="scss" scoped></style>
